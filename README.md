@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate with developers to work on real-world projects
 - 📫 You can reach out to me through this email sameerramzan303@gmail.com
-- 😄 Pronouns: He.Him
+- 😄 Pronouns: He/Him
 
 
 <!---
