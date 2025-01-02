@@ -2,7 +2,7 @@
 
 # 👋 Hello, World! I'm **Sameer Ramzan** > 🚀 Data Scientist | AI Enthusiast  
 
-I’m a passionate **Data Scientist** with a deep interest in **LLMs (Large Language Models)** and **AI Agents**. I specialize in uncovering insights from data, building intelligent systems, and delivering impactful solutions.
+I’m a passionate **Data Scientist** with a deep interest in **LLMs (Large Language Models)** and **AI Agents**. I specialize in uncovering insights from data, building predictive models, and delivering impactful solutions.
 
 ---
 
